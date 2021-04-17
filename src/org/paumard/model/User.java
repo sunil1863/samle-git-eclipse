@@ -15,6 +15,7 @@ public class User {
 	@Override
 	public String toString() 
 	{
+		//Added comment for to string method
 		return "name: " + this.name;
 	}
 }
