@@ -17,7 +17,7 @@ public class User {
 	public String toString() 
 	{
 		//Added comment for to string method
-		return "name: " + this.name;
+		return "name: " + this.name + "," + "age: " + age;
 	}
 	public int getAge() {
 		return age;
